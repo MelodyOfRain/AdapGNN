@@ -1,0 +1,4 @@
+torch_geometric == 2.2.0
+torch == 1.13.1+cu117
+rdkit == 2023.3.1
+pygpgo == 0.5.1
